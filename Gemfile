@@ -26,4 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem 'jekyll-livereload'
   gem "webrick", "~> 1.8"
+  gem "faraday-retry"
 end
