@@ -1,0 +1,27 @@
+# main links links
+main:
+  - title: "News"
+    url: /News/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "People"
+    url: /people/
+    
+
+  - title: "Open-source Project"
+    url: /teaching/    
+    
+  - title: "Janus Quantum Cloud"
+    url: http://janusq.zju.edu.cn
+    target: _blank
+
+#  -  title: Tutorials
+#     children:
+#       - title: "Stylesheets"
+#         url: /docs/stylesheets/
+#       - title: "JavaScript"
+#         url: /docs/javascript/
+
+        
